@@ -12,7 +12,7 @@ const App = () => {
     <View>
       <NavigationContainer>
         <Stack.Navigator>
-        <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="Homessss" component={HomeScreen} />
         <Stack.Screen name="VideoCallss" component={VideoCallScreen} />
         </Stack.Navigator>
       </NavigationContainer>        
